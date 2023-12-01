@@ -443,6 +443,13 @@ Thanks goes to these wonderful people:
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/kamalyes">
+            <img src="https://avatars.githubusercontent.com/u/40486003?v=4" width="100;" alt="kamalyes"/>
+            <br />
+            <sub><b>Kamalyes</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/alanhg">
             <img src="https://avatars.githubusercontent.com/u/9245110?v=4" width="100;" alt="alanhg"/>
             <br />
