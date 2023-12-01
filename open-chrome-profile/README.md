@@ -15,8 +15,8 @@ idea from https://github.com/Wit4r7/AlfredAutomations. Thanks Wit4r7
 
 
 ![](https://img.shields.io/badge/version-v0.8-green?style=for-the-badge)
-[![](https://img.shields.io/badge/download-click-blue?style=for-the-badge)](https://github.com/alanhg/alfred-workflows/raw/master/open-chrome-profile/Open%20Chrome%20Profile.alfredworkflow)
-[![](https://img.shields.io/badge/plist-link-important?style=for-the-badge)](https://raw.githubusercontent.com/alanhg/alfred-workflows/master/open-chrome-profile/src/info.plist)
+[![](https://img.shields.io/badge/download-click-blue?style=for-the-badge)](https://github.com/kamalyes/alfred-workflows/raw/master/open-chrome-profile/Open%20Chrome%20Profile.alfredworkflow)
+[![](https://img.shields.io/badge/plist-link-important?style=for-the-badge)](https://raw.githubusercontent.com/kamalyes/alfred-workflows/master/open-chrome-profile/src/info.plist)
 
 
 
